@@ -14,3 +14,5 @@ Restarting the Sandbox kills it so when installing software, never accept the re
 There are WSB launcher files where you can configure vGPU and networking as well as shared
 directories. Unfortunately the paths to the shared directories must be absolute and cannot
 be relative to the WSB launcher file. I've filed feedback requesting this to be an option.
+
+## To-Do
